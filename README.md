@@ -9,9 +9,9 @@ This project is a small [Web App](https://en.wikipedia.org/wiki/Web_application)
 
 
 With the [Sentiment Analysis Web App](website/index.html), the review text can be analyzed to determine whether it is positive or negative (*Assumes that the corresponding model endpoint is enabled in Amazon SageMaker!*).
-The original review text can be cut and pasted into the review input field of the Web App. When you click on the Submit button, the system displays a prediction as to whether the review is to be considered `positive` or `negative`:
+The original review text can be cut and pasted into the review input field of the Web App. When you click on the Submit button, the system displays a prediction as to whether the review is to be considered `positive` or `negative`
 
-![title](test/2.PNG)
+
 
 
 ### Model Building and Deployment
